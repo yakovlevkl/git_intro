@@ -4,3 +4,4 @@ app/ignored/           # Игнорировать папку
 app/**/*.log           # Игнорировать log-файлы в app- и поддиректориях 
 !app/main.log          # ... кроме файла main.log 
 
+/.idea/.name
