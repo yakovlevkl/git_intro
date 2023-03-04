@@ -1,3 +1,5 @@
-for i in (1,2,3,4,5):
 
-    print(i)
+def Test_iT():
+    for i in (1,2,3,4,5):
+
+        print(i)
